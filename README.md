@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Goud</h1>
-<h3 align="center">Frontend & MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center"> MERN Stack Developer from India 🇮🇳</h3>
 
 ---
 
